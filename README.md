@@ -26,9 +26,8 @@ Here are some ideas to get you started:
   <img src="https://atombot.best/widget/theme-2/921434569197117490.png?275832292"><br>
 </p>
 
-<p align="center">"Ara ara ara"</p>
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=your-github-invaliduser007&color=red"/>
+  <img src="https://komarev.com/ghpvc/?username=your-github-BLG420&color=red"/>
 </p>
 
  <a href="https://github.com/BLG420">
