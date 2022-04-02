@@ -28,15 +28,16 @@ Here are some ideas to get you started:
 </script>
 -->
 
-
+<!--
 <p align="center" id="image">
-  <img src="www.atombot.best/widget/theme-2/921434569197117490.png"><br>
+  <img src="https://atombot.best/widget/theme-2/921434569197117490.png"><br>
 </p>
 
 
 <p align="center">
   <img src="https://discord.c99.nl/widget/theme-2/921434569197117490.png"><br>
 </p>
+-->
 
 <!--
 <p align="center"> 
