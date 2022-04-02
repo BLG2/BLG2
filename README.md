@@ -31,10 +31,11 @@ Here are some ideas to get you started:
 </p>
 
 
-
+<!--
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=your-github-BLG420&color=red"/>
 </p>
+-->
 
  <a href="https://github.com/BLG420">
   <img align="left" alt="Github" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
