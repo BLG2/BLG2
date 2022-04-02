@@ -26,10 +26,11 @@ Here are some ideas to get you started:
   <img src="https://atombot.best/widget/theme-2/921434569197117490.png?27583221219232"><br>
 </p>
 
+<!--
 <p align="center">
   <img src="https://discord.c99.nl/widget/theme-2/921434569197117490.png"><br>
 </p>
-
+-->
 
 <!--
 <p align="center"> 
