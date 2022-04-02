@@ -17,25 +17,15 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">
-
   Hello Wolrd 👋
-
 </h2>
-
-Hello there! I'm {{name}} and I'm {{age}} years old
-
-
 
 
 <!--
-<script>
-    document.getElementById('image').src = `https://atombot.best/widget/theme-2/921434569197117490.png?${Date.now()}`
-</script>
--->
-
 <p align="center" id="image">
   <img src="https://atombot.best/widget/theme-2/921434569197117490.png"><br>
 </p>
+-->
 
 <!--
 <p align="center"> 
