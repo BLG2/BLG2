@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </h2>
 
 <p align="center">
-  <img src="https://atombot.best/widget/theme-2/921434569197117490.png?275832292"><br>
+  <img src="https://atombot.best/widget/theme-2/921434569197117490.png?27583229232"><br>
 </p>
 
 <p align="center">
