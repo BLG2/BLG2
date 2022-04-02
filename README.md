@@ -41,7 +41,7 @@ Here are some ideas to get you started:
  <a href="https://github.com/BLG420">
   <img align="left" alt="Github" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-
+header('Cache-Control: no-cache');
 
 </a>
 </a>
