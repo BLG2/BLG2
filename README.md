@@ -30,12 +30,12 @@ Here are some ideas to get you started:
 
 
 <p align="center" id="image">
-  <img src="https://atombot.best/widget/theme-2/921434569197117490.png"><br>
+  <img src="https://atombot.best/widget/theme-2/921434569197117490.png?0"><br>
 </p>
 
 
 <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-2/921434569197117490.png"><br>
+  <img src="https://discord.c99.nl/widget/theme-2/921434569197117490.png?0"><br>
 </p>
 
 <!--
