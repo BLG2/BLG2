@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <script>
     document.getElementById('image').src = `https://atombot.best/widget/theme-2/921434569197117490.png?${Date.now()}`
 </script>
--->RandomToken.gen(8)
+-->
 
 <p align="center" id="image">
   <img src="https://atombot.best/widget/theme-2/921434569197117490.png"><br>
