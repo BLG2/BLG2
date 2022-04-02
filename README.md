@@ -44,10 +44,12 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=your-github-BLG420&color=red"/>
 </p>
 -->
-
- <a href="https://github.com/BLG420" align="center">
+<p align="center"> 
+ <a href="https://github.com/BLG420">
   <img align="left" alt="Github" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+</p>
+
 
 </a>
 </a>
