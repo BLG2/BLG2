@@ -21,9 +21,13 @@ Here are some ideas to get you started:
 </h2>
 
 
+<p align="center" id="image">
+  <img src="https://atombot.best/widget/theme-2/822844838940508170.png"><br>
+</p>
+
 <!--
 <p align="center" id="image">
-  <img src="https://atombot.best/widget/theme-2/921434569197117490.png"><br>
+  <img src="https://discord.c99.nl/widget/theme-1/921434569197117490.png"><br>
 </p>
 -->
 
