@@ -20,14 +20,14 @@ Here are some ideas to get you started:
   Hello Wolrd 👋
 </h2>
 
-
-<p align="center" id="image">
-  <img src="https://atom-bot.xyz/widget/theme-2/921434569197117490.png"><br>
-</p>
-
 <!--
 <p align="center" id="image">
-  <img src="https://discord.c99.nl/widget/theme-1/921434569197117490.png"><br>
+  <img src="https://atom-bot.xyz/widget/theme-2/822844838940508170.png"><br>
+</p>
+
+
+<p align="center" id="image">
+  <img src="https://discord.c99.nl/widget/theme-1/822844838940508170.png"><br>
 </p>
 -->
 
