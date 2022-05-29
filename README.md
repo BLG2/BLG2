@@ -20,22 +20,12 @@ Here are some ideas to get you started:
   Hello Wolrd 👋
 </h2>
 
-<!--
-<p align="center" id="image">
-  <img src="https://atom-bot.xyz/widget/theme-1/822844838940508170.png"><br>
-</p>
-
 
 <p align="center" id="image">
-  <img src="https://discord.c99.nl/widget/theme-1/822844838940508170.png"><br>
+  <a href="https://discord.gg/mYnD59M2JH">
+  <img src="https://atom-bot.xyz/widget/theme-2/921434569197117490.png">
+  </a>
 </p>
--->
-
-<!--
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=your-github-BLG420&color=red"/>
-</p>
--->
 
  <a href="https://github.com/BLG420">
   <img align="left" alt="Github" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
