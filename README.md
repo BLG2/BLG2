@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">
-  Hello Wolrd 👋
+  From Zero to Hero
 </h2>
 
 
