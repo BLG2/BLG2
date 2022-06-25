@@ -16,16 +16,22 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">
-  From Zero to Hero
-</h2>
+<div align="center">
+<h1>Hi there!</h1>
+<h3>From Zero to Hero</h3>
+<!-- <small style="font-size: 1px;">The sky isnt the limit!</small> -->
+</div>
 
-
-<p align="center" id="image">
+<div align="center">
+  <small>Discord Status:</small>
+  <p align="center" id="image">
   <a href="https://discord.gg/mYnD59M2JH">
   <img src="https://atom-bot.xyz/widget/theme-2/921434569197117490.png">
   </a>
 </p>
+</div>
+
+
 
  <a href="https://github.com/BLG420">
   <img align="left" alt="Github" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
