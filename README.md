@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <small>Discord Status:</small>
   <p align="center" id="image">
   <a href="https://discord.gg/mYnD59M2JH">
-  <img src="https://atom-bot.xyz/widget/theme-2/921434569197117490.png">
+  <img src="https://atombot.be/widget/user/1/921434569197117490.png">
   </a>
 </p>
 </div>
