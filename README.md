@@ -1,4 +1,4 @@
-# 👋 Hi, I'm BLG
+# 👋 Hi, I'm .BLG
 
 I’m a passionate developer with expertise in **.NET**, **JavaScript** frameworks, and **SQL** databases. I specialize in creating scalable, maintainable solutions for both frontend and backend development.
 
