@@ -28,6 +28,7 @@ I’m a passionate developer with expertise in **.NET**, **JavaScript** framewor
 
 ### 🗄️ **Database**:
   ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=microsoftsqlserver&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ### 🛠️ **DevOps & Tools**:
