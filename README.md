@@ -53,7 +53,7 @@ A commercial VPN service built for ESP-Line, offering secure, reliable, and priv
 ---
 
 ## 💬 Let's Chat
-![Discord Profile](https://atombot.be/widget/user/1/921434569197117490.gif)
+![Discord Profile](https://atombot.be/widget/user/1/921434569197117490.png)
 
 
 ---
