@@ -45,7 +45,7 @@ I’m a passionate developer with expertise in **.NET**, **JavaScript** framewor
 A multi-purpose Discord bot with many features designed to help you manage your server effortlessly.
 
 ### 🔹 [Discord User and Server Widgets](https://github.com/BLG2/Discord-Widget/tree/main/)
-A set of dynamic image widgets that display real-time Discord data – perfect for sharing your profile or server anywhere!
+A set of dynamic image widgets that display real-time Discord data, perfect for sharing your profile or server anywhere!
 
 ### 🔹 [E-NET VPN](https://e-net.cloud/)
 A commercial VPN service built for ESP-Line, offering secure, reliable, and privacy-focused internet access for customers.
